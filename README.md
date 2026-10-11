@@ -92,9 +92,3 @@ A software development agency in Tunisia. We build web platforms, AI products, S
   <a href="https://wa.link/ldiady"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp" /></a>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fecha1/fecha1/snake-output/snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/fecha1/fecha1/snake-output/snake.svg" alt="Snake eating my contribution graph" />
-  </picture>
-</p>
